@@ -11,7 +11,7 @@
   },
   "maintainceMode": {
     "enabled": true,
-    "sendNoti": true,
+    "sendNoti": false,
     "notes": "Set enabled to true if you dont want your account to be suspended quick"
   },
   "antiInbox": false,
